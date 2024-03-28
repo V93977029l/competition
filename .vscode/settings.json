@@ -1,12 +1,13 @@
 {
     "files.associations": {
-        "istream": "cpp",
-        "iostream": "cpp",
-        "*.tcc": "cpp",
-        "bitset": "cpp",
-        "forward_list": "cpp",
-        "list": "cpp",
-        "future": "cpp",
-        "string_view": "cpp"
-    }
+		"istream": "cpp",
+		"iostream": "cpp",
+		"*.tcc": "cpp",
+		"bitset": "cpp",
+		"forward_list": "cpp",
+		"list": "cpp",
+		"future": "cpp",
+		"string_view": "cpp",
+		"ostream": "cpp"
+	}
 }
