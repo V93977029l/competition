@@ -8,6 +8,7 @@ class List
 public:
     List(T data);
     ~List();
+
 private:
     struct node
     {
@@ -19,6 +20,7 @@ private:
     node *ptr_last;
     node *current;
     int length = 0;
+
 public:
     const int current_num = 0;
 
