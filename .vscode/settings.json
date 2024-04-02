@@ -8,6 +8,8 @@
 		"list": "cpp",
 		"future": "cpp",
 		"string_view": "cpp",
-		"ostream": "cpp"
+		"ostream": "cpp",
+		"cmath": "cpp",
+		"random": "cpp"
 	}
 }
