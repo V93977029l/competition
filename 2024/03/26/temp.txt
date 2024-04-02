@@ -1,0 +1,2 @@
+git config --global user.name "Fan Boran"
+git config --global user.email fanboran666@163.com
